@@ -1,0 +1,17 @@
+pip install pandas
+
+pip install datasets
+
+pip install scikit-learn
+
+pip install gensim
+
+pip install nltk
+
+import nltk
+nltk.download('punkt')  # Bu doğru veri seti
+nltk.download('stopwords')  # Stopwords veri seti de gerekiyorsa indir
+
+pip install langdetect
+
+
